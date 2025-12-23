@@ -1,0 +1,31 @@
+Use the information in dayX-prompt.txt to understand the task at hand.
+
+Solve the problem using the information in dayX-input.txt.
+
+Do it in SQL. Show me your working. Use DuckDB.
+
+Requirements:
+1. Create dayX-solution.sql - main solution that produces the answer
+2. Create dayX-solution-working.sql - shows step-by-step working (first 20-50 steps)
+3. Create dayX-solution-explanation.md - detailed explanation including:
+   - Problem summary
+   - Solution approach with step-by-step breakdown
+   - Key SQL features used
+   - Results and verification
+   - Example calculations
+   - How to run the solution
+4. Create dayX-pr-description.md - PR description including:
+   - Problem summary
+   - Solution approach
+   - Answer
+   - Files included
+   - How to run
+   - Verification
+   - Results
+
+Place all files in the dayX/ folder.
+
+Use relative paths for input files (e.g., 'dayX-input.txt').
+
+Show your working step-by-step with clear comments. Use CTEs to break down the problem into logical steps. Add verification with the example from the prompt if provided.
+
